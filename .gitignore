@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# files
+Laboratorio 4.  Segmentacion_Especies_con_Cluster_Analysis.ipynb
